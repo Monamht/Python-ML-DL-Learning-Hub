@@ -168,13 +168,6 @@ It is a record of my learning process where every notebook represents a concept 
 
 ---
 
-<br>
-
-<p align="center">
-  <h3>🚀 From Curiosity to Capability</h3>
-</p>
-</br>
-
 <p align="center">
   <b>Learning in Public. Building in Public. Growing in Public.</b>
 </p>
