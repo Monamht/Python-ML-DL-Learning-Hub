@@ -130,10 +130,10 @@ Testing different approaches, parameters, and techniques to understand how model
 
 # 📈 Current Focus
 
-* [x] Python Fundamentals
-* [x] Object-Oriented Programming
-* [x] Machine Learning Basics
-* [x] Perceptron
+* [ ] Python Fundamentals
+* [ ] Object-Oriented Programming
+* [ ] Machine Learning Basics
+* [ ] Perceptron
 * [ ] Neural Networks
 * [ ] Backpropagation
 * [ ] CNNs
@@ -173,6 +173,7 @@ It is a record of my learning process where every notebook represents a concept 
 <p align="center">
   <h3>🚀 From Curiosity to Capability</h3>
 </p>
+</br>
 
 <p align="center">
   <b>Learning in Public. Building in Public. Growing in Public.</b>
